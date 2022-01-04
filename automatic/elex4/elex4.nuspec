@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>elex4</id>
+    <version>4.9</version>
+    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/automatic/elex</packageSourceUrl>
+    <title>Event Log Explorer v4.9</title>
+    <authors>FSPro Labs</authors>
+    <projectUrl>https://eventlogxp.com/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/webex-meetings.png</iconUrl>
+    <copyright>Copyright © 2001-2022 FSPro Labs, All rights reserved</copyright>
+    <tags>evtx dfir forensics eventlogs log</tags>
+    <summary>Analyze Windows event logs efficiently</summary>
+    <description>Event Log Explorer is an effective software solution for viewing, analyzing and monitoring events recorded in Microsoft Windows event logs. Event Log Explorer greatly simplifies and speeds up the analysis of event logs (security, application, system, setup, directory service, DNS and others).
+
+Event Log Explorer extends the standard Windows Event Viewer functionality and brings many new features. Users who tried Event Log Explorer see it as a superior solution to Windows Event Viewer helping to boost their productivity twice.</description>
+    <releaseNotes>https://eventlogxp.com/version-history.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
