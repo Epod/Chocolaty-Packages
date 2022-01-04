@@ -1,7 +1,7 @@
 # Chocolatey Packages
 
 
-[![](https://ci.appveyor.com/api/projects/status/github/Epod/Chocolaty-Packages?svg=true)](https://ci.appveyor.com/project/Epod/Chocolaty-Packages)
+[![](https://ci.appveyor.com/api/projects/status/github/Chuck/chocolaty-packages?svg=true)](https://ci.appveyor.com/project/Chuck/chocolaty-packages)
 
 
 

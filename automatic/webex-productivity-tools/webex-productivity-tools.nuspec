@@ -7,22 +7,12 @@
     <title>Cisco Webex Productivity Tools</title>
     <authors>Cisco</authors>
     <projectUrl>https://www.webex.com/video-conferencing</projectUrl>
-    <iconUrl>https://cdn.jsdelivr.net/gh/chtof/chocolatey-packages/automatic/webex-meetings/webex-meetings.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/webex-meetings.png</iconUrl>
     <copyright>© 2020 Cisco and/or its affiliates. All rights reserved.</copyright>
     <tags>webex-meeting video web conference conferencing online meeting outlook plugin</tags>
     <summary>Webex Plugin for Outlook to automatically create meeting links</summary>
-    <description><![CDATA[Simply the Best Video Conferencing & Online Meetings.
-## Meet face to face. Wherever you are.
-Video conferencing is as simple and seamless as meeting in person. With the Webex mobile app, you can meet absolutely anywhere. Hosting is easy and joining is easier—simply click on your link to join. You can even learn about the people you’re meeting for the first time, with instant access to participants’ background and company.
-## Get on the same page.
-Seeing is believing. Share your screen so everyone can view your document, spreadsheet, or application. Hosts can record the meeting so others can get up to speed later.
-## Invite anyone or everyone.
-Schedule and join meetings from where you work. Everyone you invite can join your online meeting, no matter how they’re connecting, even guests. Big crowd? Not a problem. You can meet with up 100,000 people.
-## Click or tap to join.
-Easily start or join using Productivity Tools. Now you can join a video meeting with no dialing in. You can also host or join without a download by using the Webex app.
-![screenshot](https://cdn.jsdelivr.net/gh/chtof/chocolatey-packages/automatic/webex-meetings/screenshot.png)
-]]></description>
-    <releaseNotes>https://help.webex.com/fr-fr/xcwws1/What-s-New-for-the-Latest-Versions-of-Webex-Meetings</releaseNotes>
+    <description>Start, schedule, and join Webex Meetings sessions right from your favorite applications. Plugs directly into Microsoft Outlook allowing you to generate invite links right within the application as a addon.</description>
+    <releaseNotes>https://help.webex.com/en-US/article/tjry4r/Cisco-Webex-Meetings-Productivity-Tools-and-Desktop-App-Support#reference_FFB346163B7850BE4FD2D64ED51BE098</releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
