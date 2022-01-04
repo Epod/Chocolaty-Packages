@@ -45,8 +45,8 @@ environment:
     secure: eqAEnLceC2DFXmdDyl2lfHKcBsHA+FZ9YKXXveTtKM+VE4rC0nf5bTTFJ9i2D4yL # https://ci.appveyor.com/tools/encrypt
 
 init:
-- git config --global user.email "chocolatey@realdimensions.net"
-- git config --global user.name "Chocolatey"
+- git config --global user.email "epod@linux.com"
+- git config --global user.name "Epod"
 - git config --global core.safecrlf false
 
 install:
