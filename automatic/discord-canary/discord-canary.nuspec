@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>discord-canary</id>
+    <version>1.0.42</version>
+    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/automatic/discord-canary</packageSourceUrl>
+    <title>Discord Canary</title>
+    <authors>Discord Inc.</authors>
+    <projectUrl>https://canary.discord.com/</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/discordcanary.png</iconUrl>
+    <copyright>© 2022 Discord.</copyright>
+    <tags>discord discord-canary canary voip chat voice-chat gaming social</tags>
+    <summary>Test build for Discorc Canary</summary>
+    <description>Direct download for the up to date version of discord canary. Discord canary is the test build for discord. </description>
+    <releaseNotes>https://discord.com/developers/docs/change-log</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
