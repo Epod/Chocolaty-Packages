@@ -3,7 +3,7 @@
   <metadata>
     <id>webex-productivity-tools</id>
     <version>41.9.0.16</version>
-    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/webex-productivity-tools</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/automatic/webex-productivity-tools</packageSourceUrl>
     <title>Cisco Webex Productivity Tools</title>
     <authors>Cisco</authors>
     <projectUrl>https://www.webex.com/video-conferencing</projectUrl>
