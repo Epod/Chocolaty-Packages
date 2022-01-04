@@ -4,7 +4,7 @@
     <id>elex4</id>
     <version>4.9</version>
     <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/automatic/elex</packageSourceUrl>
-    <title>Event Log Explorer v4.9</title>
+    <title>Event Log Explorer</title>
     <authors>FSPro Labs</authors>
     <projectUrl>https://eventlogxp.com/</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/elex.png</iconUrl>
