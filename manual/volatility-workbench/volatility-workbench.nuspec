@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>volatility-workbench</id>
+    <version>2.1</version>
+    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/manual/volatility-workbench</packageSourceUrl>
+    <title>Volatility Workbench</title>
+    <authors>Passmark Software</authors>
+    <projectUrl>https://www.osforensics.com/tools/volatility-workbench.html</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/volworkbench.png</iconUrl>
+    <copyright>Copyright © 2021 PassMark™ Software</copyright>
+    <tags>dfir forensics memory volatility mem</tags>
+    <summary>GUI for Volatility</summary>
+    <description>Volatility Workbench is a graphical user interface (GUI) for the Volatility tool. Volatility is a command line memory analysis and forensics tool for extracting artifacts from memory dumps. Volatility Workbench is free, open source and runs in Windows. It provides a number of advantages over the command line version</description>
+    <releaseNotes>https://www.osforensics.com/tools/volatility-workbench.html</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
