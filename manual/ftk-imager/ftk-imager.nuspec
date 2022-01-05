@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>ftk-imager</id>
+    <version>4.5.0</version>
+    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/manual/ftk-imager</packageSourceUrl>
+    <title>FTK Imager</title>
+    <authors>AccessData</authors>
+    <projectUrl>https://www.exterro.com/ftk-imager</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/ftkimager.png</iconUrl>
+    <copyright>© Copyright 2022 AccessData</copyright>
+    <tags>dfir forensics e01 disk dd</tags>
+    <summary>Quickly assess electronic evidence by obtaining forensic images of computer data</summary>
+    <description>Quickly assess electronic evidence by obtaining forensic images of computer data, without making changes to the original evidence, all with FTK® Imager!</description>
+    <releaseNotes>https://accessdata.com/assets/images/Imager_4.5.0.3_RN.pdf</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
