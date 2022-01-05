@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>arsenal-image-mounter</id>
+    <version>3.6.188</version>
+    <packageSourceUrl>https://github.com/Epod/Chocolaty-Packages/tree/main/manual/arsenal-image-mounter</packageSourceUrl>
+    <title>Arsenal Image Mounter</title>
+    <authors>Arsenal Recon</authors>
+    <projectUrl>https://arsenalrecon.com/faq/#AIMFAQ</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/Epod/Chocolaty-Packages/main/icons/arsenal-image-mounter220-220.png</iconUrl>
+    <copyright>Copyright 2020® Arsenal Recon</copyright>
+    <tags>dfir forensics disk mount e01 dd bitlocker</tags>
+    <summary>Mount forensic images</summary>
+    <description>Many Windows®-based disk image mounting solutions mount the contents of disk images as shares or partitions, rather than complete (a/k/a “physical” or “real”) disks, which limits their usefulness to digital forensics practitioners and others. Arsenal Image Mounter mounts the contents of disk images as complete disks in Windows. As far as Windows is concerned, the contents of disk images mounted by Arsenal Image Mounter are real SCSI disks, allowing users to benefit from disk-specific features like integration with Disk Manager, launching virtual machines (and then bypassing Windows authentication), managing BitLocker-protected volumes, mounting Volume Shadow Copies, and more.</description>
+    <releaseNotes>https://github.com/ArsenalRecon/Arsenal-Image-Mounter/commits/master</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
